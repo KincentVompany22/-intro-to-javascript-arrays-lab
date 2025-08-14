@@ -86,7 +86,7 @@ Exercise 7: Using the `slice()` method
 Complete Exercise 7 in the space below:
 */
 
-const yummy = foods.slice(1,-2)
+const yummy = foods.slice(1,3)
 
 console.log('Exercise 7 result:', yummy);
 
